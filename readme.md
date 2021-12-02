@@ -1,8 +1,29 @@
 
 # Awesome USV Perception
+## Applications
+* water quality monitoring
+* riverbed mapping 
+* underwater explorations
+* river rescue
+* floating waste removal
 
 ## Challenges
 ### For camera
+* surface fog
+* water waves
+* sunlight reflection on the water surface
+* reflection from surrounding objects (both on bank-side and water surface) rippling caused by raindrops
+* small size of objects (e.g., bottles, drink cans)
+* harmless floating materials (e.g., fallen leaves)
+* semantic segmentation of water and shore areas
+
+### For radar 
+* sparse point cloud
+* interference caused by the water surface clutter
+* weak echoes from non-metallic targets
+* lack of semantic information
+
+[Details](https://www.yuque.com/aiotv/rcf/ggkozz)
 
 ## Datasets
 
@@ -19,3 +40,5 @@
 | **Singapore Maritime Dataset (SMD)** | Object Detection <br> Object Tracking | 2017 |The Arctic University of Norway| [Website](https://sites.google.com/site/dilipprasad/home/singapore-maritime-dataset) <br> [Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Moosbauer_A_Benchmark_for_Deep_Learning_Based_Object_Detection_in_Maritime_CVPRW_2019_paper.pdf) <br> [Github](https://github.com/yaoshanliang/Singapore-Maritime-Dataset) |
 | **Marine Obstacle Detection Dataset (MODD)** | Object Detection <br> Semantic Segmentation | 2016 |University of Ljubljana| [Website](http://vision.fe.uni-lj.si/RESEARCH/modd/) <br> [Paper](https://arxiv.org/abs/1503.01918) <br> [Github](https://vicos.si/resources/modd/) |
 | **MarDCT** | Classification <br> Object Detection <br> Tracking | 2015 |Sapienza University of Rome| [Website](http://www.diag.uniroma1.it//~labrococo/MAR/index.htm) <br> [Paper](http://www.diag.uniroma1.it//~bloisi/papers/bloisi-vrs2015-draft.pdf) |
+
+[Details](https://www.yuque.com/aiotv/rcf/way28l)
