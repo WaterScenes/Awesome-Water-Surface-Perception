@@ -28,3 +28,11 @@
 | **FloW** | Object Detection <br> Multimodal Object Detection | 2021 | ORCA-tech | [Website](https://www.orca-tech.cn/datasets/FloW/Introduction) <br> [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cheng_FloW_A_Dataset_and_Benchmark_for_Floating_Waste_Detection_in_ICCV_2021_paper.html) <br> [Github](https://github.com/ORCA-Uboat/USVInland-Dataset) |
 | **WaterScenes** | Object Detection <br> Instance Segmentation <br> Semantic Segmentation <br> Free-Space Segmentation <br> Waterline Segmentation <br> Panoptic Segmentation | 2023 | University of Liverpool | [Website](https://waterscenes.github.io) <br> [GitHub](https://github.com/WaterScenes/WaterScenes) <br> [Paper](https://arxiv.org/abs/2307.06505) |
 
+## Tasks
+
+### Detection
+
+### Segmentation
+
+### Tracking
+
