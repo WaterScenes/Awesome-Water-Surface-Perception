@@ -21,6 +21,10 @@
   
   University of Ljubljana 
 
+## Workshops
+
+* #### [MaCVi](https://macvi.org/workshop/macvi24)
+
 ## Datasets
 
 | **Name** | **Task** | **Year** | **Affiliation** | **Link** |
