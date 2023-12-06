@@ -2,20 +2,20 @@
 # Awesome Water Surface Perception
 
 ## Teams
-* #### WaterScenes
+* ### WaterScenes
 
   [Website](https://github.com/WaterScenes)
   
   University of Liverpool, Xi'an Jiaotong-Liverpool University
 
   
-* #### Marine Intelligent Perception and Computation (MIPC) Group
+* ### Marine Intelligent Perception and Computation (MIPC) Group
 
   [Website](http://mipc.whut.edu.cn/publications.html)
   
   Wuhan University of Technology
   
-* #### Visual Cognitive Systems (ViCos) Laboratory
+* ### Visual Cognitive Systems (ViCos) Laboratory
 
   [Website](https://vicos.si/research/autonomous-boats); [Datasets](https://box.vicos.si/borja/viamaro/index.html)
   
@@ -23,7 +23,9 @@
 
 ## Workshops
 
-* #### [MaCVi](https://macvi.org/workshop/macvi24)
+* ### [MaCVi](https://macvi.org/workshop/macvi24)
+
+  The 2nd Workshop on Maritime Computer Vision (MaCVi) 2024 [[Results](https://arxiv.org/abs/2311.14762)]
 
 ## Datasets
 
