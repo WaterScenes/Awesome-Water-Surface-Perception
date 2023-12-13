@@ -13,6 +13,7 @@
     - [Small Object Detection](#small-object-detection)
   - [Segmentation](#segmentation)
   - [Tracking](#tracking)
+  - [Diffusion](#diffusion)
 
 
 ## Teams
@@ -44,6 +45,7 @@
 
 
 ## Surveys
+* 2017 - Video Processing From Electro-Optical Sensors for Object Detection and Tracking in a Maritime Environment: A Survey __`TITS`__ [[Paper](https://ieeexplore.ieee.org/document/7812788)]
   * 2023 - Deep learning-based object detection in maritime unmanned aerial vehicle imagery: Review and experimental comparisons __`EAAI`__ [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197623016974)]
 
 ## Datasets
@@ -72,7 +74,10 @@
 
 ### Detection
 
-* 2023 - Achelous: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar __`ITSC`__ [__`WaterScenes`__] [[Paper](https://arxiv.org/abs/2307.07102) [GitHub](https://github.com/GuanRunwei/Achelous)]
+
+* 2019 - Object Detection in a Maritime Environment: Performance Evaluation of Background Subtraction Methods [__`SMD`__] __`TITS`__  [[Paper](https://ieeexplore.ieee.org/abstract/document/8401855)]
+* 2020 - Are Object Detection Assessment Criteria Ready for Maritime Computer Vision? [__`SMD`__] __`TITS`__  [[Paper](https://ieeexplore.ieee.org/document/8911242)]
+* 2023 - Achelous: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar [__`WaterScenes`__]  __`ITSC`__ [[Paper](https://arxiv.org/abs/2307.07102) [GitHub](https://github.com/GuanRunwei/Achelous)]
 
 #### Small Object Detection
 * 2023 - A novel Multi to Single Module for small object detection  [__`SeaDroneSee`__] [[Paper](https://arxiv.org/abs/2303.14977)]
@@ -81,7 +86,7 @@
 ### Segmentation
 
 ### Tracking
-* 2021 - A Robust Deep Affinity Network for Multiple Ship Tracking  __`TIM`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9423987)]
+* 2021 - A Robust Deep Affinity Network for Multiple Ship Tracking  [__`SMD`__] __`TIM`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9423987)]
 * 2023 - Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways __`TITS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10159572)]
 * 2023 - Stable Yaw Estimation of Boats from the Viewpoint of UAVs and USVs __`ECMR`__ [[Paper](https://arxiv.org/abs/2306.14056)]
 * 2023 - Memory Maps for Video Object Detection and Tracking on UAVs __`IROS`__ [[Paper](https://arxiv.org/abs/2303.03508)]
