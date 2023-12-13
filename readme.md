@@ -1,35 +1,42 @@
 
 # Awesome Water Surface Perception
 
+<img src='images/cover.jpg' width=600 /> 
+
 ## Overview
 - [Teams](#teams)
 - [Workshops](#workshops)
+- [Surveys](#surveys)
 - [Datasets](#datasets)
 - [Tasks](#tasks)
   - [Detection](#detection)
+    - [Small Object Detection](#small-object-detection)
   - [Segmentation](#segmentation)
   - [Tracking](#tracking)
 
 
 ## Teams
-* ### WaterScenes
-
-  [[Website](https://github.com/WaterScenes)] University of Liverpool, Xi'an Jiaotong-Liverpool University
+* ### WaterScenes [[Website](https://github.com/WaterScenes)] 
+  University of Liverpool, Xi'an Jiaotong-Liverpool University, Institute of Deep Perception Technology, Jiangsu Industrial Technology  Research Institute
 
   
-* ### Marine Intelligent Perception and Computation (MIPC) Group
-
-  [[Website]](http://mipc.whut.edu.cn/publications.html) Wuhan University of Technology
+* ### Marine Intelligent Perception and Computation (MIPC) Group [[Website]](http://mipc.whut.edu.cn/publications.html) 
+  Wuhan University of Technology
   
-* ### Visual Cognitive Systems (ViCos) Laboratory
-
-  [[Website](https://vicos.si/research/autonomous-boats) [Datasets](https://box.vicos.si/borja/viamaro/index.html)] University of Ljubljana 
+* ### Visual Cognitive Systems (ViCos) Laboratory [[Website](https://vicos.si/research/autonomous-boats) [Datasets](https://box.vicos.si/borja/viamaro/index.html)] 
+  University of Ljubljana 
 
 ## Workshops
 
-* ### MaCVi 
+* ### MaCVi 2024
+  * The 2nd Workshop on Maritime Computer Vision (MaCVi) 2024 [[Website](https://macvi.org/workshop/macvi24) [Results](https://arxiv.org/abs/2311.14762)]
+  * Baseline: **SeaDronesSee**: A Maritime Benchmark for Detecting Humans in Open Water [__`SeaDroneSee`__] [[Paper](https://arxiv.org/abs/2105.01922)]
+  * 2023 - **Sea You Later**: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking [__`SeaDroneSee-MOT`__] __`WACV Workshop`__ [[Paper](https://arxiv.org/abs/2311.03561)] (1st place of the UAV-based Multi-Object Tracking with Reidentification Challenge)
+  * 2023 - **ReIDTracker Sea**: the technical report of BoaTrack and SeaDronesSee-MOT challenge at MaCVi [__`SeaDroneSee-MOT`__] __`WACV Workshop`__ [[Paper](https://arxiv.org/abs/2311.07616)]
 
-  [[Website](https://macvi.org/workshop/macvi24)] The 2nd Workshop on Maritime Computer Vision (MaCVi) 2024 [[Results](https://arxiv.org/abs/2311.14762)]
+
+## Surveys
+  * 2023 - Deep learning-based object detection in maritime unmanned aerial vehicle imagery: Review and experimental comparisons __`EAAI`__ [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197623016974)]
 
 ## Datasets
 
@@ -59,10 +66,13 @@
 
 * 2023 - Achelous: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar __`ITSC`__ [__`WaterScenes`__] [[Paper](https://arxiv.org/abs/2307.07102) [GitHub](https://github.com/GuanRunwei/Achelous)]
 
+#### Small Object Detection
+* 2023 - A novel Multi to Single Module for small object detection  [__`SeaDroneSee`__] [[Paper](https://arxiv.org/abs/2303.14977)]
+
 ### Segmentation
 
 ### Tracking
 * 2021 - A Robust Deep Affinity Network for Multiple Ship Tracking  __`TIM`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9423987)]
 * 2023 - Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways __`TITS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10159572)]
-* 2023 - ReIDTracker Sea: the technical report of BoaTrack and SeaDronesSee-MOT challenge at MaCVi __`WACV Workshop`__ [[Paper](https://arxiv.org/abs/2311.07616)]
+
 * 2023 - Stable Yaw Estimation of Boats from the Viewpoint of UAVs and USVs __`ECMR`__ [[Paper](https://arxiv.org/abs/2306.14056)]
