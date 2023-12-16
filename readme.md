@@ -46,7 +46,7 @@
 
 ## Surveys
 * 2017 - Video Processing From Electro-Optical Sensors for Object Detection and Tracking in a Maritime Environment: A Survey __`TITS`__ [[Paper](https://ieeexplore.ieee.org/document/7812788)]
-  * 2023 - Deep learning-based object detection in maritime unmanned aerial vehicle imagery: Review and experimental comparisons __`EAAI`__ [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197623016974)]
+* 2023 - Deep learning-based object detection in maritime unmanned aerial vehicle imagery: Review and experimental comparisons __`EAAI`__ [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197623016974)]
 
 ## Datasets
 
@@ -84,6 +84,7 @@
 
 
 ### Segmentation
+* 2018 - Stereo obstacle detection for unmanned surface vehicles by IMU-assisted semantic segmentation  [__`MODD2`__][[Paper](https://www.sciencedirect.com/science/article/pii/S0921889017305808)]
 
 ### Tracking
 * 2021 - A Robust Deep Affinity Network for Multiple Ship Tracking  [__`SMD`__] __`TIM`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9423987)]
