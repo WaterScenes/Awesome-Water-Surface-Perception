@@ -33,15 +33,15 @@
 
 * ### MaCVi 2024
   * The 2nd Workshop on Maritime Computer Vision (MaCVi) 2024 [[Website](https://macvi.org/workshop/macvi24) [Results](https://arxiv.org/abs/2311.14762)]
-  * Baseline: **SeaDronesSee**: A Maritime Benchmark for Detecting Humans in Open Water [__`SeaDroneSee`__] [[Paper](https://arxiv.org/abs/2105.01922)]
-  * 2023 - **Sea You Later**: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking [__`SeaDroneSee-MOT`__ __`BoaTrack`__] __`WACV Workshop`__ [[Paper](https://arxiv.org/abs/2311.03561)] (🥇 in UAV-based and USV-based Multi-Object Tracking)
-  * 2023 - **ReIDTracker Sea**: the technical report of BoaTrack and SeaDronesSee-MOT challenge at MaCVi [__`SeaDroneSee-MOT`__ __`BoaTrack`__] __`WACV Workshop`__ [[Paper](https://arxiv.org/abs/2311.07616)] (🥈 in UAV-based Multi-Object Tracking, 🥉 in USV-based Multi-Object Tracking)
-  * 2023 - [**DLR-BoaTrack**]: Improving YOLOv8 with Scattering Transform and Attention for Maritime Awareness [__`SeaDroneSee-MOT`__ __`BoaTrack`__] __`ISPA`__ [[Paper](https://ieeexplore.ieee.org/document/10279352)] (+BoT-SORT, 🥉 in UAV-based Multi-Object Tracking)
+  * Baseline: **SeaDronesSee**: A Maritime Benchmark for Detecting Humans in Open Water [*`SeaDroneSee`*] [[Paper](https://arxiv.org/abs/2105.01922)]
+  * 2023 - **Sea You Later**: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking [*`SeaDroneSee-MOT`* *`BoaTrack`*] __`WACV Workshop`__ [[Paper](https://arxiv.org/abs/2311.03561)] (🥇 in UAV-based and USV-based Multi-Object Tracking)
+  * 2023 - **ReIDTracker Sea**: the technical report of BoaTrack and SeaDronesSee-MOT challenge at MaCVi [*`SeaDroneSee-MOT`* *`BoaTrack`*] __`WACV Workshop`__ [[Paper](https://arxiv.org/abs/2311.07616)] (🥈 in UAV-based Multi-Object Tracking, 🥉 in USV-based Multi-Object Tracking)
+  * 2023 - [**DLR-BoaTrack**]: Improving YOLOv8 with Scattering Transform and Attention for Maritime Awareness [*`SeaDroneSee-MOT`* *`BoaTrack`*] __`ISPA`__ [[Paper](https://ieeexplore.ieee.org/document/10279352)] (+BoT-SORT, 🥉 in UAV-based Multi-Object Tracking)
 
 * ### MaCVi 2023
   * The 1nd Workshop on Maritime Computer Vision (MaCVi) 2023 [[Website](https://macvi.org/workshop/macvi23) [Results](https://ieeexplore.ieee.org/document/10031200/)]
-  * Baseline: **SeaDronesSee**: A Maritime Benchmark for Detecting Humans in Open Water [__`SeaDroneSee`__] [[Paper](https://arxiv.org/abs/2105.01922)]
-  * 2023 - A Novel Framework to Evaluate and Train Object Detection Models for Real-Time Victims Search and Rescue at Sea with Autonomous Unmanned Aerial Systems Using High-Fidelity Dynamic Marine Simulation Environment [__`SeaDroneSee`__] [[Paper](https://arxiv.org/abs/2105.01922)]
+  * Baseline: **SeaDronesSee**: A Maritime Benchmark for Detecting Humans in Open Water [*`SeaDroneSee`*] [[Paper](https://arxiv.org/abs/2105.01922)]
+  * 2023 - A Novel Framework to Evaluate and Train Object Detection Models for Real-Time Victims Search and Rescue at Sea with Autonomous Unmanned Aerial Systems Using High-Fidelity Dynamic Marine Simulation Environment [*`SeaDroneSee`*] [[Paper](https://arxiv.org/abs/2105.01922)]
   
 
 
@@ -76,22 +76,22 @@
 ### Detection
 
 
-* 2019 - Object Detection in a Maritime Environment: Performance Evaluation of Background Subtraction Methods [__`SMD`__] __`TITS`__  [[Paper](https://ieeexplore.ieee.org/abstract/document/8401855)]
-* 2020 - Are Object Detection Assessment Criteria Ready for Maritime Computer Vision? [__`SMD`__] __`TITS`__  [[Paper](https://ieeexplore.ieee.org/document/8911242)]
-* 2023 - Achelous: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar [__`WaterScenes`__]  __`ITSC`__ [[Paper](https://arxiv.org/abs/2307.07102) [GitHub](https://github.com/GuanRunwei/Achelous)]
+* 2019 - Object Detection in a Maritime Environment: Performance Evaluation of Background Subtraction Methods [*`SMD`*] __`TITS`__  [[Paper](https://ieeexplore.ieee.org/abstract/document/8401855)]
+* 2020 - Are Object Detection Assessment Criteria Ready for Maritime Computer Vision? [*`SMD`*] __`TITS`__  [[Paper](https://ieeexplore.ieee.org/document/8911242)]
+* 2023 - Achelous: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar  [*`WaterScenes`*] __`ITSC`__ [[Paper](https://arxiv.org/abs/2307.07102) [GitHub](https://github.com/GuanRunwei/Achelous)]
 
 #### Small Object Detection
-* 2023 - A novel Multi to Single Module for small object detection  [__`SeaDroneSee`__] [[Paper](https://arxiv.org/abs/2303.14977)]
+* 2023 - A novel Multi to Single Module for small object detection  [*`SeaDroneSee`*] [[Paper](https://arxiv.org/abs/2303.14977)]
 
 
 ### Segmentation
-* 2018 - Stereo obstacle detection for unmanned surface vehicles by IMU-assisted semantic segmentation  [__`MODD2`__] [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889017305808)]
+* 2018 - Stereo obstacle detection for unmanned surface vehicles by IMU-assisted semantic segmentation [*`MODD2`*] [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889017305808)]
 
 ### Tracking
-* 2021 - A Robust Deep Affinity Network for Multiple Ship Tracking  [__`SMD`__] __`TIM`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9423987)]
+* 2021 - A Robust Deep Affinity Network for Multiple Ship Tracking  [*`SMD`*] __`TIM`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9423987)]
 * 2023 - Asynchronous Trajectory Matching-Based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways __`TITS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10159572)]
 * 2023 - Stable Yaw Estimation of Boats from the Viewpoint of UAVs and USVs __`ECMR`__ [[Paper](https://arxiv.org/abs/2306.14056)]
 * 2023 - Memory Maps for Video Object Detection and Tracking on UAVs __`IROS`__ [[Paper](https://arxiv.org/abs/2303.03508)]
 
 ### Diffusion
-* 2023 - SafeSea: Synthetic Data Generation for Adverse & Low Probability Maritime Conditions [__`SeaDroneSee`__] __`WACV Workshop`__[[Paper](https://arxiv.org/abs/2311.14764) [Github](https://github.com/martin-3240/SafeSea)]
+* 2023 - SafeSea: Synthetic Data Generation for Adverse & Low Probability Maritime Conditions [*`SeaDroneSee`*] __`WACV Workshop`__[[Paper](https://arxiv.org/abs/2311.14764) [Github](https://github.com/martin-3240/SafeSea)]
