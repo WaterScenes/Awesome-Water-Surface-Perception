@@ -34,14 +34,15 @@
 * ### MaCVi 2024
   * The 2nd Workshop on Maritime Computer Vision (MaCVi) 2024 [[Website](https://macvi.org/workshop/macvi24) [Results](https://arxiv.org/abs/2311.14762)]
   * Baseline: **SeaDronesSee**: A Maritime Benchmark for Detecting Humans in Open Water [__`SeaDroneSee`__] [[Paper](https://arxiv.org/abs/2105.01922)]
-  * 2023 - **Sea You Later**: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking [__`SeaDroneSee-MOT`__ __`BoaTrack`__] __`WACV Workshop`__ [[Paper](https://arxiv.org/abs/2311.03561)] (1st in UAV-based and USV-based Multi-Object Tracking)
-  * 2023 - **ReIDTracker Sea**: the technical report of BoaTrack and SeaDronesSee-MOT challenge at MaCVi [__`SeaDroneSee-MOT`__ __`BoaTrack`__] __`WACV Workshop`__ [[Paper](https://arxiv.org/abs/2311.07616)] (2nd in UAV-based Multi-Object Tracking, 3rd in USV-based Multi-Object Tracking)
-  * 2023 - [**DLR-BoaTrack**]: Improving YOLOv8 with Scattering Transform and Attention for Maritime Awareness [__`SeaDroneSee-MOT`__ __`BoaTrack`__] __`ISPA`__ [[Paper](https://ieeexplore.ieee.org/document/10279352)] (+BoT-SORT, 3rd in UAV-based Multi-Object Tracking)
+  * 2023 - **Sea You Later**: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking [__`SeaDroneSee-MOT`__ __`BoaTrack`__] __`WACV Workshop`__ [[Paper](https://arxiv.org/abs/2311.03561)] (🥇 in UAV-based and USV-based Multi-Object Tracking)
+  * 2023 - **ReIDTracker Sea**: the technical report of BoaTrack and SeaDronesSee-MOT challenge at MaCVi [__`SeaDroneSee-MOT`__ __`BoaTrack`__] __`WACV Workshop`__ [[Paper](https://arxiv.org/abs/2311.07616)] (🥈 in UAV-based Multi-Object Tracking, 🥉 in USV-based Multi-Object Tracking)
+  * 2023 - [**DLR-BoaTrack**]: Improving YOLOv8 with Scattering Transform and Attention for Maritime Awareness [__`SeaDroneSee-MOT`__ __`BoaTrack`__] __`ISPA`__ [[Paper](https://ieeexplore.ieee.org/document/10279352)] (+BoT-SORT, 🥉 in UAV-based Multi-Object Tracking)
 
 * ### MaCVi 2023
   * The 1nd Workshop on Maritime Computer Vision (MaCVi) 2023 [[Website](https://macvi.org/workshop/macvi23) [Results](https://ieeexplore.ieee.org/document/10031200/)]
   * Baseline: **SeaDronesSee**: A Maritime Benchmark for Detecting Humans in Open Water [__`SeaDroneSee`__] [[Paper](https://arxiv.org/abs/2105.01922)]
   * 2023 - A Novel Framework to Evaluate and Train Object Detection Models for Real-Time Victims Search and Rescue at Sea with Autonomous Unmanned Aerial Systems Using High-Fidelity Dynamic Marine Simulation Environment [__`SeaDroneSee`__] [[Paper](https://arxiv.org/abs/2105.01922)]
+  
 
 
 ## Surveys
@@ -84,7 +85,7 @@
 
 
 ### Segmentation
-* 2018 - Stereo obstacle detection for unmanned surface vehicles by IMU-assisted semantic segmentation  [__`MODD2`__][[Paper](https://www.sciencedirect.com/science/article/pii/S0921889017305808)]
+* 2018 - Stereo obstacle detection for unmanned surface vehicles by IMU-assisted semantic segmentation  [__`MODD2`__] [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889017305808)]
 
 ### Tracking
 * 2021 - A Robust Deep Affinity Network for Multiple Ship Tracking  [__`SMD`__] __`TIM`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9423987)]
