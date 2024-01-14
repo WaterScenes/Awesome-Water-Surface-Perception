@@ -14,6 +14,7 @@
   - [Segmentation](#segmentation)
   - [Tracking](#tracking)
   - [Diffusion](#diffusion)
+  - [Image Enhancement](#image-enhancement)
 
 
 ## Teams
@@ -100,3 +101,6 @@
 
 ### Diffusion
 * 2023 - **SafeSea**: Synthetic Data Generation for Adverse & Low Probability Maritime Conditions [*`SeaDroneSee`*] __`WACV Workshop`__[[Paper](https://arxiv.org/abs/2311.14764)] [[Code](https://github.com/martin-3240/SafeSea)]
+
+### Image Enhancement
+* 2023 - AiOENet: All-in-One Low-Visibility Enhancement to Improve Visual Perception for Intelligent Marine Vehicles Under Severe Weather Conditions  __`TIV`__[[Paper](https://ieeexplore.ieee.org/abstract/document/10375786)] [[Code](https://github.com/LouisYuxuLu/AiOENet)]
