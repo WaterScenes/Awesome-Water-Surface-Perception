@@ -107,8 +107,19 @@
 * 2023 - [**DLR-BoaTrack**]: Improving YOLOv8 with Scattering Transform and Attention for Maritime Awareness [*`SeaDroneSee-MOT`* *`BoaTrack`*] __`ISPA`__ [[Paper](https://ieeexplore.ieee.org/document/10279352)]
 * 2024 - Active Vision-Based Finite-Time Trajectory-Tracking Control of an Unmanned Surface Vehicle Without Direct Position Measurements __`TITS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10443713)]
 
+### Mapping
+* 2024 - Real-Time Volumetric Perception for Unmanned Surface Vehicles Through Fusion of Radar and Camera __`TIM`__ [[Paper](https://ieeexplore.ieee.org/document/10478941)]
+
 ### Diffusion
 * 2023 - **SafeSea**: Synthetic Data Generation for Adverse & Low Probability Maritime Conditions [*`SeaDroneSee`*] __`WACV Workshop`__[[Paper](https://arxiv.org/abs/2311.14764)] [[Code](https://github.com/martin-3240/SafeSea)]
 
 ### Image Enhancement
 * 2023 - AiOENet: All-in-One Low-Visibility Enhancement to Improve Visual Perception for Intelligent Marine Vehicles Under Severe Weather Conditions  __`TIV`__[[Paper](https://ieeexplore.ieee.org/abstract/document/10375786)] [[Code](https://github.com/LouisYuxuLu/AiOENet)]
+
+## Google Scholars
+[Ryan Wen Liu](https://scholar.google.com/citations?user=jgb3Ey4AAAAJ&view_op=list_works&sortby=pubdate), 
+[Ning Wang](https://scholar.google.com/citations?user=dsK8i4EAAAAJ&view_op=list_works&sortby=pubdate), 
+[Yu Guo](https://scholar.google.com/citations?user=klYz-acAAAAJ&view_op=list_works&sortby=pubdate), 
+[Yuwei Cheng](https://scholar.google.com/citations?user=ermhKGIAAAAJ&view_op=list_works&sortby=pubdate), 
+[Yuxu Lu](https://scholar.google.com/citations?user=XXge2_0AAAAJ&view_op=list_works&sortby=pubdate), 
+[Cheng-Yen Yang](https://scholar.google.com/citations?user=ULLPuPIAAAAJ&view_op=list_works&sortby=pubdate)
