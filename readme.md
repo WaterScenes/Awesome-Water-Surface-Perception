@@ -85,6 +85,8 @@
 * 2020 - Are Object Detection Assessment Criteria Ready for Maritime Computer Vision? [*`SMD`*] __`TITS`__  [[Paper](https://ieeexplore.ieee.org/document/8911242)]
 * 2023 - **Achelous**: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar  [*`WaterScenes`*] __`ITSC`__ [[Paper](https://arxiv.org/abs/2307.07102)] [[GitHub](https://github.com/GuanRunwei/Achelous)]
 * 2023 - An Automated Method for the Creation of Oriented Bounding Boxes in Remote Sensing Ship Detection Datasets __`WACV Workshop`__ [[Paper](https://openaccess.thecvf.com/content/WACV2024W/MaCVi/html/Savathrakis_An_Automated_Method_for_the_Creation_of_Oriented_Bounding_Boxes_WACVW_2024_paper.html)]
+* 2024 - **MDD-ShipNet**: Math-Data Integrated Defogging for Fog-Occlusion Ship Detection __`TITS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10527397/)]
+* 2024 - **AodeMar**: Attention-Aware Occlusion Detection of Vessels for Maritime Autonomous Surface Ships __`TITS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10537110)]
 
 
 #### Small Object Detection
