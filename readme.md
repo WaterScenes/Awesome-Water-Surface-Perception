@@ -8,13 +8,16 @@
 - [Workshops](#workshops)
 - [Surveys](#surveys)
 - [Datasets](#datasets)
-- [Tasks](#tasks)
+- [Uni-Modal Perception](#uni-modal-perception)
   - [Detection](#detection)
     - [Small Object Detection](#small-object-detection)
   - [Segmentation](#segmentation)
   - [Tracking](#tracking)
   - [Diffusion](#diffusion)
   - [Image Enhancement](#image-enhancement)
+- [Multi-Modal Perception](#multi-modal-perception)
+  - [Radar-Camera](#radar-camera)
+  - [AIS-Camera](#ais-camera)
 
 
 ## Teams
@@ -74,16 +77,12 @@
 | **MVDD13** | 2024 | Object Detection | Dalian Maritime University | [GitHub](https://github.com/yyuanwang1010/MVDD13) <br> [Paper](https://www.sciencedirect.com/science/article/pii/S0141118723003760) |
 
 
-
-
-## Tasks
+## Uni-Modal Perception
 
 ### Detection
 
-
 * 2019 - Object Detection in a Maritime Environment: Performance Evaluation of Background Subtraction Methods [*`SMD`*] __`TITS`__  [[Paper](https://ieeexplore.ieee.org/abstract/document/8401855)]
 * 2020 - Are Object Detection Assessment Criteria Ready for Maritime Computer Vision? [*`SMD`*] __`TITS`__  [[Paper](https://ieeexplore.ieee.org/document/8911242)]
-* 2023 - **Achelous**: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar  [*`WaterScenes`*] __`ITSC`__ [[Paper](https://arxiv.org/abs/2307.07102)] [[GitHub](https://github.com/GuanRunwei/Achelous)]
 * 2023 - An Automated Method for the Creation of Oriented Bounding Boxes in Remote Sensing Ship Detection Datasets __`WACV Workshop`__ [[Paper](https://openaccess.thecvf.com/content/WACV2024W/MaCVi/html/Savathrakis_An_Automated_Method_for_the_Creation_of_Oriented_Bounding_Boxes_WACVW_2024_paper.html)]
 * 2024 - **MDD-ShipNet**: Math-Data Integrated Defogging for Fog-Occlusion Ship Detection __`TITS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10527397/)]
 * 2024 - **AodeMar**: Attention-Aware Occlusion Detection of Vessels for Maritime Autonomous Surface Ships __`TITS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10537110)]
@@ -117,7 +116,15 @@
 * 2023 - **SafeSea**: Synthetic Data Generation for Adverse & Low Probability Maritime Conditions [*`SeaDroneSee`*] __`WACV Workshop`__[[Paper](https://arxiv.org/abs/2311.14764)] [[Code](https://github.com/martin-3240/SafeSea)]
 
 ### Image Enhancement
-* 2023 - AiOENet: All-in-One Low-Visibility Enhancement to Improve Visual Perception for Intelligent Marine Vehicles Under Severe Weather Conditions  __`TIV`__[[Paper](https://ieeexplore.ieee.org/abstract/document/10375786)] [[Code](https://github.com/LouisYuxuLu/AiOENet)]
+* 2023 - **AiOENet**: All-in-One Low-Visibility Enhancement to Improve Visual Perception for Intelligent Marine Vehicles Under Severe Weather Conditions  __`TIV`__[[Paper](https://ieeexplore.ieee.org/abstract/document/10375786)] [[Code](https://github.com/LouisYuxuLu/AiOENet)]
+
+## Multi-Modal Perception
+
+### Radar-Camera
+
+* 2023 - **Achelous**: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar [Detection, Segmentation] [*`WaterScenes`*] __`ITSC`__ [[Paper](https://arxiv.org/abs/2307.07102)] [[GitHub](https://github.com/GuanRunwei/Achelous)]
+
+### AIS-Camera
 
 ## Google Scholars
 [Ryan Wen Liu](https://scholar.google.com/citations?user=jgb3Ey4AAAAJ&view_op=list_works&sortby=pubdate), 
