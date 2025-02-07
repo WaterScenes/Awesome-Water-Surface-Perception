@@ -35,6 +35,8 @@
 
 ## Workshops
 
+* ### MaCVi 2025
+
 * ### MaCVi 2024
   * The 2nd Workshop on Maritime Computer Vision (MaCVi) 2024 [[Website](https://macvi.org/workshop/macvi24)] [[Results](https://arxiv.org/abs/2311.14762)] [[Paper List](https://openaccess.thecvf.com/WACV2024_workshops/MaCVi)]
   * Baseline: **SeaDronesSee**: A Maritime Benchmark for Detecting Humans in Open Water [*`SeaDroneSee`*] [[Paper](https://arxiv.org/abs/2105.01922)]
@@ -50,7 +52,6 @@
   * 2023 - Improving the Detection of Small Oriented Objects in Aerial Images [[Paper](https://openaccess.thecvf.com/content/WACV2023W/MaCVi/papers/Zhao_YOLOv7-Sea_Object_Detection_of_Maritime_UAV_Images_Based_on_Improved_WACVW_2023_paper.pdf)]
   * 2023 - **YOLOv7-Sea**: Object Detection of Maritime UAV Images Based on Improved YOLOv7 [[Paper](https://openaccess.thecvf.com/content/WACV2023W/MaCVi/papers/Doloriel_Improving_the_Detection_of_Small_Oriented_Objects_in_Aerial_Images_WACVW_2023_paper.pdf)]
   
-
 
 ## Surveys
 * 2017 - Video Processing From Electro-Optical Sensors for Object Detection and Tracking in a Maritime Environment: A Survey __`TITS`__ [[Paper](https://ieeexplore.ieee.org/document/7812788)]
@@ -87,6 +88,7 @@
 * 2024 - **MDD-ShipNet**: Math-Data Integrated Defogging for Fog-Occlusion Ship Detection __`TITS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10527397/)]
 * 2024 - **AodeMar**: Attention-Aware Occlusion Detection of Vessels for Maritime Autonomous Surface Ships __`TITS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10537110)]
 * 2024 - **RaViDeep**: Target Detection Based on Deep Fusion of Radar and Vision in Berthing Scenarios  __`TIV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10607951)]
+* 2024 - Panoptic Water Surface Visual Perception for USVs Using Monocular Camera Sensor [Detection, Segmentation]  __`IEEE Sensors`__ [[Paper](https://ieeexplore.ieee.org/document/10562207)]
 
 
 #### Small Object Detection
@@ -124,12 +126,14 @@
 
 * 2023 - **Achelous**: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar [Detection, Segmentation] [*`WaterScenes`*] __`ITSC`__ [[Paper](https://arxiv.org/abs/2307.07102)] [[GitHub](https://github.com/GuanRunwei/Achelous)]
 
+* 2024 - **RCBDet**: Space Grafted Velocity 3D Boat Detection forUnmanned Surface Vessel via mmWave Radarand Camera [Detection] __`IEEE Sensors`__ [[Paper](https://ieeexplore.ieee.org/document/10836144)]
+ 
+* 2024 - **FVMNet**: Real-Time Volumetric Perception for Unmanned Surface Vehicles Through Fusion of Radar and Camera [Segmentation] __`TIM`__ [[Paper](https://ieeexplore.ieee.org/document/10478941/)] 
+
+
 ### AIS-Camera
 
-## Google Scholars
-[Ryan Wen Liu](https://scholar.google.com/citations?user=jgb3Ey4AAAAJ&view_op=list_works&sortby=pubdate), 
-[Ning Wang](https://scholar.google.com/citations?user=dsK8i4EAAAAJ&view_op=list_works&sortby=pubdate), 
-[Yu Guo](https://scholar.google.com/citations?user=klYz-acAAAAJ&view_op=list_works&sortby=pubdate), 
-[Yuwei Cheng](https://scholar.google.com/citations?user=ermhKGIAAAAJ&view_op=list_works&sortby=pubdate), 
-[Yuxu Lu](https://scholar.google.com/citations?user=XXge2_0AAAAJ&view_op=list_works&sortby=pubdate), 
-[Cheng-Yen Yang](https://scholar.google.com/citations?user=ULLPuPIAAAAJ&view_op=list_works&sortby=pubdate)
+### Marine Radar-Camera
+
+### LiDAR-Camera
+
